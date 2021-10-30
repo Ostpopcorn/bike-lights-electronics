@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SymbolOST)(type KiCad)(uri ${KIPRJMOD}/lib/SymbolOST/SymbolOST.pretty)(options "")(descr ""))
+)
