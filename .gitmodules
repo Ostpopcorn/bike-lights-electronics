@@ -1,3 +1,4 @@
-[submodule "SymbolOST"]
+
+[submodule "lib/SymbolOST"]
 	path = lib/SymbolOST
 	url = git@github.com:Ostpopcorn/SymbolOST.git
